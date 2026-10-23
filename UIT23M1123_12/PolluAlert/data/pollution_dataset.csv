@@ -1,0 +1,431 @@
+id,text,pollution_type,severity,emergency_status,location,source_type
+1,There is some dust in the air near the construction site.,Air Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+2,Mild smoke smell noticed in the neighbourhood this morning.,Air Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+3,Some vehicles on the highway are producing visible exhaust fumes.,Air Pollution,LOW,POLLUTION REPORT,Not specified,observation
+4,The air quality seems slightly poor today in the city area.,Air Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+5,A few trucks were releasing black smoke while passing through the market.,Air Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+6,Dust particles are visible in the air near the unpaved road.,Air Pollution,LOW,POLLUTION REPORT,Not specified,observation
+7,There is a faint burning smell in the air this evening.,Air Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+8,The local bakery chimney is emitting more smoke than usual.,Air Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+9,Light haze observed in the morning near the agricultural fields.,Air Pollution,LOW,POLLUTION REPORT,Not specified,observation
+10,Some residents have noticed increased dust due to nearby construction.,Air Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+11,The air smells slightly smoky in the residential colony.,Air Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+12,Minor vehicle exhaust pollution observed near the bus stop.,Air Pollution,LOW,POLLUTION REPORT,Not specified,observation
+13,Thick smoke has been coming from the brick kiln for several hours.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+14,Dense black smoke is rising from the industrial area near Pune highway.,Air Pollution,MEDIUM,POLLUTION REPORT,Pune,citizen_report
+15,Residents of Andheri East are complaining about continuous smoke from a nearby factory.,Air Pollution,MEDIUM,POLLUTION REPORT,Andheri East,news_report
+16,Smoke from crop burning is affecting visibility on the main road.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+17,The area near the cement plant has very poor air quality with visible particles.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+18,Multiple complaints received about smoke from the power plant in Nashik.,Air Pollution,MEDIUM,POLLUTION REPORT,Nashik,official_report
+19,Persistent smog covering the downtown area for the past two days.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,news_report
+20,Black smoke rising from an open waste burning site near the school.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+21,Emissions from the steel factory are causing visibility issues on the road.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+22,Farmers burning crop residue causing heavy smoke in Haryana region.,Air Pollution,MEDIUM,POLLUTION REPORT,Haryana,news_report
+23,The neighbourhood has been covered in smoke from the nearby tyre recycling unit.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+24,Air pollution levels seem very high today in the market area with hazy conditions.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,observation
+25,There is continuous smoke emission from the sugar factory chimney.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+26,Extremely thick black smoke from the chemical factory is covering the entire locality and people are coughing.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+27,Massive fire at the warehouse is producing toxic smoke spreading over several kilometres near Mumbai.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Mumbai,news_report
+28,Dense poisonous smoke from burning plastic waste is causing severe breathing difficulties among residents.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+29,A large industrial fire near Ambernath is producing hazardous smoke affecting thousands of people.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Ambernath,news_report
+30,People in Bhiwandi are experiencing severe respiratory problems due to toxic fumes from a factory fire.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Bhiwandi,news_report
+31,Thick smoke from burning tyres is making it impossible to breathe in the area.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+32,Severe air pollution emergency as factory emissions reach dangerous levels.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,official_report
+33,Toxic gas release from the industrial zone is affecting nearby residential areas.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+34,The pond water near the park looks slightly greenish.,Water Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+35,There seems to be some algae growing in the community lake.,Water Pollution,LOW,POLLUTION REPORT,Not specified,observation
+36,The tap water has a slightly unusual taste today.,Water Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+37,Some foam was noticed on the surface of the river near the bridge.,Water Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+38,The well water appears slightly cloudy after recent rains.,Water Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+39,Minor oil sheen observed on the canal water surface.,Water Pollution,LOW,POLLUTION REPORT,Not specified,observation
+40,The stream near the village has some floating debris.,Water Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+41,Residents noticed mild discolouration of water in the storage tank.,Water Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+42,A small amount of waste water seems to be leaking into the drain.,Water Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+43,The lake water has become slightly murky compared to last month.,Water Pollution,LOW,POLLUTION REPORT,Not specified,observation
+44,The river water near Sangam Nagar has turned dark brown and smells very bad.,Water Pollution,MEDIUM,POLLUTION REPORT,Sangam Nagar,citizen_report
+45,A factory is discharging waste water directly into the river near Kolhapur.,Water Pollution,MEDIUM,POLLUTION REPORT,Kolhapur,citizen_report
+46,Dead fish found floating in the lake near the industrial estate.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,news_report
+47,The drainage system near the hospital is overflowing into the nearby water body.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+48,Sewage water is mixing with the drinking water supply in Ward 15.,Water Pollution,MEDIUM,POLLUTION REPORT,Ward 15,citizen_report
+49,The river near Aurangabad has thick foam forming on the surface.,Water Pollution,MEDIUM,POLLUTION REPORT,Aurangabad,news_report
+50,Industrial effluent is being released into the stream without treatment.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+51,The canal water near MIDC area has changed colour to reddish brown.,Water Pollution,MEDIUM,POLLUTION REPORT,MIDC,citizen_report
+52,Residents of Solapur complain that the river water has a strong chemical smell.,Water Pollution,MEDIUM,POLLUTION REPORT,Solapur,citizen_report
+53,The municipal corporation drain is discharging untreated waste into the lake.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,official_report
+54,Water in the bore well near the factory has turned yellowish.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+55,Multiple dead fish and foul smell reported from the village pond.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+56,Massive chemical discharge from the paint factory has contaminated the entire river and hundreds of fish are dead.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+57,Toxic industrial waste has contaminated the drinking water supply affecting over 500 families in Nagpur.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Nagpur,news_report
+58,Several children have fallen ill after drinking contaminated water from the village well near the chemical plant.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+59,A major pipeline leak has caused crude oil to spill into the river near Ratnagiri.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Ratnagiri,news_report
+60,The entire village water supply has been contaminated with industrial chemicals causing widespread illness.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+61,People have been hospitalized after consuming water from the polluted lake near the textile factory.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+62,Chemical dye waste from the factory is flowing directly into the drinking water reservoir.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+63,Hazardous waste leaked into the groundwater supply contaminating water for an entire block.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,official_report
+64,There is some litter scattered around the empty plot near the school.,Soil/Land Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+65,A few plastic bags and bottles are lying in the open field.,Soil/Land Pollution,LOW,POLLUTION REPORT,Not specified,observation
+66,The garden soil near the factory gate seems slightly discoloured.,Soil/Land Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+67,Some construction debris has been left in the vacant land.,Soil/Land Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+68,There are scattered plastic wrappers and waste in the open ground.,Soil/Land Pollution,LOW,POLLUTION REPORT,Not specified,observation
+69,Minor soil erosion observed near the construction site.,Soil/Land Pollution,LOW,POLLUTION REPORT,Not specified,observation
+70,Old batteries and electronic parts found dumped in the empty lot.,Soil/Land Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+71,The soil near the petrol pump appears slightly oily.,Soil/Land Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+72,Large quantities of industrial waste have been dumped on agricultural land near Ahmednagar.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Ahmednagar,citizen_report
+73,The soil in the area around the abandoned factory has turned black and has a chemical smell.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+74,Illegal dumping of factory waste on farmland has been reported by farmers in Satara.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Satara,citizen_report
+75,Oil and grease waste from the automobile workshop is contaminating the surrounding soil.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+76,Fly ash from the power plant is being dumped on open land affecting nearby crops.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+77,Mining activities have left the land barren and contaminated in the area.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Not specified,news_report
+78,Chemical residue from the pesticide factory is seeping into the agricultural fields.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+79,The landfill site near Pimpri has expanded beyond its boundary contaminating surrounding land.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Pimpri,official_report
+80,Toxic chemical waste has been illegally buried in the farmland and crops are dying in the entire region.,Soil/Land Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+81,Hazardous industrial sludge dumped near the school playground is causing skin rashes among children.,Soil/Land Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+82,Major oil spill on agricultural land has destroyed crops over 50 acres near Sangli.,Soil/Land Pollution,HIGH,POTENTIAL EMERGENCY,Sangli,news_report
+83,Radioactive waste material found dumped illegally near the residential area.,Soil/Land Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,official_report
+84,Large scale illegal dumping of toxic chemicals has contaminated the soil and groundwater.,Soil/Land Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+85,The traffic noise on the main road is quite loud during rush hours.,Noise Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+86,Construction work next door has been making noise during the day.,Noise Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+87,The neighbourhood dogs are barking loudly at night.,Noise Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+88,There is moderate noise from the nearby workshop during working hours.,Noise Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+89,Music from the restaurant is slightly loud in the evening.,Noise Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+90,Some noise from the generator can be heard in the neighbourhood.,Noise Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+91,The highway traffic creates a constant hum in the background.,Noise Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+92,Occasional loud honking from vehicles near the market area.,Noise Pollution,LOW,POLLUTION REPORT,Not specified,observation
+93,Extremely loud music from the marriage hall is continuing past midnight disturbing the entire area.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+94,The factory machines are producing very loud noise round the clock in the residential neighbourhood.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+95,Continuous blasting from the quarry near Latur is shaking houses and causing distress.,Noise Pollution,MEDIUM,POLLUTION REPORT,Latur,citizen_report
+96,Night time construction work on the highway is producing unbearable noise levels in nearby villages.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+97,The stone crushing unit is generating excessive noise affecting residents of the colony.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+98,Multiple DJ sound systems operating simultaneously during the festival causing extreme noise.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+99,Industrial machinery noise from the MIDC area near Jalgaon is affecting nearby schools.,Noise Pollution,MEDIUM,POLLUTION REPORT,Jalgaon,citizen_report
+100,Heavy machinery operating throughout the night near the hospital area.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+101,Continuous extremely loud industrial noise causing hearing problems among factory workers and nearby residents.,Noise Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+102,Residents near the airport runway are reporting hearing damage due to constant aircraft noise.,Noise Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+103,Blasting operations at the mine have caused structural damage to nearby houses and noise-induced injuries.,Noise Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+104,Prolonged exposure to extreme noise from the steel plant has led to multiple hearing loss cases.,Noise Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+105,A small factory is producing some smoke during its operations.,Industrial Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+106,There is a mild chemical smell coming from the workshop area.,Industrial Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+107,The small manufacturing unit seems to be releasing some waste water into the drain.,Industrial Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+108,Minor vibrations felt from the industrial machinery in the adjacent building.,Industrial Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+109,Light grey smoke observed from the small factory chimney.,Industrial Pollution,LOW,POLLUTION REPORT,Not specified,observation
+110,The paint shop is emitting some fumes during working hours.,Industrial Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+111,A mild odour is coming from the food processing unit down the street.,Industrial Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+112,Some dust being generated by the stone cutting unit in the area.,Industrial Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+113,The chemical factory in MIDC Ahmednagar is releasing foul-smelling emissions regularly.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Ahmednagar,citizen_report
+114,Residents near the paper mill in Raigad are complaining about strong sulphur smell.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Raigad,citizen_report
+115,The sugar factory is discharging untreated effluent into the nearby canal.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+116,Dense smoke from the foundry unit is affecting the visibility and air quality of the residential area.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+117,The textile dyeing unit is releasing coloured waste water into the stream near Ichalkaranji.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Ichalkaranji,citizen_report
+118,Multiple factories in the industrial belt are violating emission norms.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,official_report
+119,The pharmaceutical company is generating excessive waste which is not being properly disposed.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+120,Heavy dust and noise from the cement factory is affecting the nearby village.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+121,The metal plating factory is releasing acidic waste water without treatment.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+122,Smoke and particulate matter from the brick kiln is causing air quality issues.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+123,Major industrial accident at the chemical plant near Chembur has released toxic gases affecting thousands.,Industrial Pollution,HIGH,POTENTIAL EMERGENCY,Chembur,news_report
+124,Factory explosion in Tarapur MIDC has caused massive fire and toxic chemical release into the environment.,Industrial Pollution,HIGH,POTENTIAL EMERGENCY,Tarapur,news_report
+125,Residents near the MIDC Dombivli reported thick toxic smoke from a chemical factory causing mass evacuation.,Industrial Pollution,HIGH,POTENTIAL EMERGENCY,Dombivli,news_report
+126,A major chemical spill at the industrial plant has contaminated the river and several people have been hospitalized.,Industrial Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+127,Toxic gas leak from the pesticide factory has caused breathing emergencies in the surrounding area.,Industrial Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+128,Industrial waste fire at the dump site is producing highly toxic smoke spreading over the residential area.,Industrial Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+129,Explosion at the refinery near Jamnagar has caused oil leak and fire contaminating the coastal area.,Industrial Pollution,HIGH,POTENTIAL EMERGENCY,Jamnagar,news_report
+130,Some garbage has been thrown near the roadside.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+131,A few plastic bags are lying around the park bench.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+132,There is some litter near the bus stop area.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+133,Food waste has been dumped in the empty plot next to our building.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+134,A small pile of garbage is accumulating at the street corner.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+135,Some household waste bags are left outside the designated collection area.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+136,Litter is scattered around the picnic spot near the lake.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,observation
+137,A dustbin near the market is overflowing with waste.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+138,There is some garbage dumped on the vacant plot beside the temple.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+139,Plastic waste found near the walking track in the garden.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+140,A large amount of garbage has been dumped near the school in Hadapsar.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Hadapsar,citizen_report
+141,The municipal garbage collection has not happened for a week and waste is piling up in the colony.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+142,Illegal dumping of construction debris and waste near the river bank.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+143,Large garbage dump near the residential area is attracting stray animals and causing hygiene issues.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+144,The waste collection point near Katraj has become a permanent dumping ground with rotting waste.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Katraj,citizen_report
+145,Open dumping of garbage near the water tank is creating foul smell and health hazards.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+146,Household and commercial waste is being thrown into the nullah near the market area.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+147,Large scale littering and waste accumulation at the weekly market site.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+148,The garbage processing plant in Kothrud has stopped working and waste is accumulating.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Kothrud,citizen_report
+149,Tonnes of unprocessed waste lying in open area near the housing society.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+150,Massive illegal garbage dump near the hospital is burning and creating toxic smoke affecting patients.,Waste/Garbage Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+151,Medical waste including syringes and bandages found dumped openly near the school playground.,Waste/Garbage Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+152,Biomedical waste from the clinic is being thrown into the municipal garbage bin contaminating the area.,Waste/Garbage Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+153,A mountain of garbage has collapsed at the landfill site trapping several waste pickers.,Waste/Garbage Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+154,Burning garbage dump near residential area in Bhosari releasing toxic fumes and causing mass breathing problems.,Waste/Garbage Pollution,HIGH,POTENTIAL EMERGENCY,Bhosari,news_report
+155,Hazardous chemical containers found in regular municipal waste dump near populated area.,Waste/Garbage Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,official_report
+156,There is a mild chemical smell near the cleaning supply store.,Chemical Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+157,A faint paint smell is coming from the auto body shop.,Chemical Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+158,Slight chemical odour noticed near the printing press.,Chemical Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+159,There is a cleaning chemical smell in the corridor after floor washing.,Chemical Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+160,Mild solvent smell coming from the furniture workshop.,Chemical Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+161,A slight chemical smell is noticeable near the agricultural supply store.,Chemical Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+162,Faint pesticide smell drifting from the nearby farm during spraying season.,Chemical Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+163,Minor fuel smell near the petrol station noticed by pedestrians.,Chemical Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+164,Strong chemical smell is spreading in the area around the textile factory in Bhiwandi.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Bhiwandi,citizen_report
+165,Chemical waste drums are stored improperly in an open area near residential buildings.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+166,A persistent chemical smell from the pesticide manufacturing unit is making residents uncomfortable.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+167,Chemical runoff from the factory is visible in the drainage near Pimpri-Chinchwad.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Pimpri-Chinchwad,citizen_report
+168,The paint factory is emitting strong chemical fumes especially during night shifts.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+169,Residents are complaining about a continuous chemical smell from the pharmaceutical unit.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+170,A chemical spill was observed on the road near the industrial area.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+171,The acid processing unit is releasing fumes that are irritating the eyes of nearby residents.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+172,Chemical containers are being washed in the open near the river bank.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+173,Industrial chemicals stored in the open are leaking during rains contaminating the area.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+174,A chemical leak in the factory has caused a toxic cloud and people are having severe difficulty breathing.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+175,Major acid spill from the tanker on the highway near Panvel is causing burns to people in contact.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Panvel,news_report
+176,Chlorine gas leak from the water treatment plant has caused mass evacuation near Thane.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Thane,news_report
+177,A chemical explosion at the factory has released hazardous substances into the air and water.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+178,Ammonia gas leak at the cold storage facility is causing respiratory emergencies in the surrounding area.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+179,Toxic chemical fumes from the warehouse fire are spreading rapidly across multiple neighbourhoods.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+180,Large scale chemical contamination detected in residential water supply after factory accident.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,official_report
+181,Chemical leak has caused a strong toxic smell and several people are having breathing problems.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+182,Pesticide gas leak at the godown has caused unconsciousness among workers and nearby people.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+183,There is some unusual smell in the area but cannot identify the source.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+184,Something seems off about the environment in this area but not sure what.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+185,An unidentified substance has been noticed on the ground near the road.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+186,There is a strange odour in the neighbourhood that comes and goes.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+187,Some kind of residue is visible on the walls of the buildings near the factory.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+188,An unusual coloured substance is seeping from the ground.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+189,Unidentified waste material is being dumped at night in the area behind the market.,Other/Unknown,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+190,An unknown source of pollution is causing discomfort among residents of the housing complex.,Other/Unknown,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+191,Unidentified thick liquid flowing from an unknown source into the stormwater drain.,Other/Unknown,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+192,Multiple residents reporting unusual health symptoms possibly related to environmental contamination.,Other/Unknown,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+193,Unknown pollutant making the air quality visibly poor in the neighbourhood.,Other/Unknown,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+194,Unknown substance leak causing mass nausea and dizziness among residents urgent help needed.,Other/Unknown,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+195,Unidentified toxic fumes causing people to collapse in the area immediate evacuation needed.,Other/Unknown,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+196,Unknown chemical exposure causing severe skin burns and breathing difficulties in multiple people.,Other/Unknown,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+197,Today is a beautiful sunny day and the weather is pleasant.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+198,The flowers in the garden are blooming nicely this season.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+199,I went to the park for my morning walk and it was very refreshing.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+200,The new road construction in the city is progressing well.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+201,Our school organized a tree planting drive last weekend.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+202,The local market was very crowded during the festival season.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+203,I enjoyed a nice meal at the new restaurant near the station.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+204,The cricket match yesterday was very exciting.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+205,Students are preparing for their final examinations.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+206,The new library in the college campus has been inaugurated.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+207,Traffic is moving smoothly on the expressway today.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+208,The monsoon season has started and we received good rainfall.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+209,A new shopping complex has opened near the railway station.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+210,The electricity supply has improved significantly in our area.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+211,Our society organized a sports competition for children last Sunday.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+212,The hospital has started a free health check-up camp for senior citizens.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+213,I attended a workshop on digital marketing at the community centre.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+214,The train service between Pune and Mumbai is very convenient.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+215,The annual cultural festival at the college was a grand success.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+216,My family went on a trip to Mahabaleshwar and the weather was lovely.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+217,The city has planted over 10000 trees this year as part of the green initiative.,Not Pollution,NONE,NORMAL,Not specified,news_report
+218,The metro construction is expected to be completed by next year.,Not Pollution,NONE,NORMAL,Not specified,news_report
+219,Students celebrated Republic Day with great enthusiasm at the college.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+220,The new water supply pipeline has been laid in our colony.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+221,The farmer market on Sunday had fresh vegetables and fruits.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+222,Our building society conducted its annual general meeting successfully.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+223,A new bus route has been started connecting the suburb to the city centre.,Not Pollution,NONE,NORMAL,Not specified,news_report
+224,The vaccination drive at the health centre is going smoothly.,Not Pollution,NONE,NORMAL,Not specified,news_report
+225,I helped my neighbour fix a leaking tap this morning.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+226,The sunset view from the hill station was absolutely beautiful.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+227,Our college placed 85 percent of students in campus placements.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+228,The local temple committee organized a grand festival last week.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+229,The government has announced a new skill development programme for youth.,Not Pollution,NONE,NORMAL,Not specified,news_report
+230,The mobile network coverage has improved in our rural area.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+231,I completed an online course in Python programming recently.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+232,The blood donation camp at the hospital was well attended.,Not Pollution,NONE,NORMAL,Not specified,news_report
+233,Our neighbours adopted a stray dog and named it Bruno.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+234,The new flyover has reduced traffic congestion significantly.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+235,Children enjoyed the science exhibition organized by the school.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+236,The yoga session in the park every morning is very beneficial.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+237,We had a wonderful family gathering during Diwali.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+238,The municipal corporation has improved the street lighting in our area.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+239,I recently learned to cook a new recipe from an online video.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+240,The river cleanup volunteer drive was very successful.,Not Pollution,NONE,NORMAL,Not specified,news_report
+241,The weather forecast predicts a pleasant week ahead.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+242,A new art exhibition has opened at the city museum.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+243,The local football team won the district level championship.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+244,Solar panels have been installed on the rooftop of our building.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+245,I had a productive day at work and completed all my tasks.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+246,The garden committee planted several fruit trees along the road.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+247,There is a strange smell near the river but I am not sure what it is.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+248,The water looks different today but it might just be the rain.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+249,Something is burning somewhere in the area.,Air Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+250,The air does not feel right today.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+251,Thick black smoke from a factory near the highway is visible and residents are feeling suffocated.,Industrial Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+252,A strong chemical smell is spreading around the residential area and people are feeling dizzy.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+253,The river water has become dark and smells very bad near Wai and fish are dying.,Water Pollution,MEDIUM,POLLUTION REPORT,Wai,citizen_report
+254,A large amount of garbage has been dumped near the school and it is attracting rats and insects.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+255,People living near the factory are complaining about smoke and developing skin problems.,Industrial Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+256,Vehicular pollution on MG Road during peak hours is becoming unbearable.,Air Pollution,MEDIUM,POLLUTION REPORT,MG Road,citizen_report
+257,Smoke from the nearby tandoor restaurant is filling up our apartment.,Air Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+258,The air quality index in Delhi NCR has crossed the severe category mark.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Delhi NCR,news_report
+259,Stubble burning in Punjab is causing severe air pollution in the region.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Punjab,news_report
+260,Crackers during Diwali have caused the air quality to deteriorate significantly.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+261,The borewell water has a metallic taste and brownish colour near the battery factory.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+262,Sewage overflow during monsoon is contaminating the water supply in the slum area.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+263,The drinking water supplied by tanker has a strong chlorine smell today.,Water Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+264,Oil leak from the ship near the harbour is spreading on the sea surface.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+265,The leather tannery in Kanpur is releasing untreated waste into the Ganga river.,Industrial Pollution,HIGH,POTENTIAL EMERGENCY,Kanpur,news_report
+266,Cement dust from the factory is settling on crops and houses in the surrounding village.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+267,The dyeing factory waste is turning the stream different colours every day.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+268,E-waste is being dismantled in the open near the market area without any safety measures.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+269,Animal carcasses have been found dumped near the lake creating a health hazard.,Waste/Garbage Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+270,The garbage van has not collected waste from our society for the past ten days.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+271,Used plastic and packaging material from the online delivery hub is being burnt openly.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+272,Pesticide spraying on crops near the school is causing headaches among students.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+273,Chemical tanker overturned on the highway leaking unknown substance.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+274,Strong bleach like chemical smell detected near the swimming pool area.,Chemical Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+275,Loud speakers at the political rally are causing disturbance to residents.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+276,The disco near our apartment plays loud music until 3 AM every night.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+277,Firecrackers being burst continuously for hours during the wedding celebration.,Noise Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+278,The abandoned factory site has toxic waste buried underground which is now leaking.,Soil/Land Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+279,Agricultural land near the tannery has become unfit for farming due to chemical contamination.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+280,Overuse of chemical fertilizers has degraded the soil quality in the farming area.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+281,The government should invest more in renewable energy sources.,Not Pollution,NONE,NORMAL,Not specified,social_media
+282,What are the main causes of air pollution in India?,Not Pollution,NONE,NORMAL,Not specified,social_media
+283,I think we should all use electric vehicles to reduce pollution.,Not Pollution,NONE,NORMAL,Not specified,social_media
+284,The environmental science lecture at college was very informative.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+285,Pollution control board officials visited the factory for routine inspection.,Not Pollution,NONE,NORMAL,Not specified,news_report
+286,The factory is releasing both smoke into the air and waste into the river near Badlapur.,Industrial Pollution,HIGH,POTENTIAL EMERGENCY,Badlapur,citizen_report
+287,Burning garbage on the roadside is creating smoke and ash is settling on nearby houses.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+288,The chemical plant discharge has polluted both the soil and the groundwater.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+289,Construction dust and heavy truck noise from the site is disturbing the entire neighbourhood.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+290,I want to report that the nullah behind our building stinks badly especially in summer.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+291,"Please help, the factory next to our colony keeps releasing foul gas at night when nobody is watching.",Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+292,"Sir, there is a big garbage pile burning near our children's school and smoke is entering the classrooms.",Waste/Garbage Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+293,We have been complaining for months about the textile unit dumping chemicals but no action has been taken.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+294,The well water in our village has become poisonous after the factory started operations.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+295,My child has developed asthma because of the constant smoke from the brick kilns nearby.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+296,The noise from the stone quarry blasting is cracking the walls of our houses.,Noise Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+297,There is a foul smell coming from the drain but it is not too strong.,Water Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+298,Plastic waste is clogging the drainage system causing waterlogging during rains.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+299,Why is there so much smoke near the MIDC area today? Anyone else noticing?,Air Pollution,MEDIUM,POLLUTION REPORT,MIDC,social_media
+300,The river near our village looks like a drain now. So sad to see this.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,social_media
+301,Cannot sleep because of the construction noise going on at 1 AM. This is unacceptable.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,social_media
+302,Just saw a tanker dumping something into the lake. This should be reported.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,social_media
+303,The whole area smells like chemicals today. Really worried about health effects.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,social_media
+304,Pollution control board has issued notice to three factories for violating emission norms in Chakan.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Chakan,official_report
+305,Air quality monitoring shows PM2.5 levels exceeding safe limits in the industrial area.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,official_report
+306,Water testing reveals high levels of heavy metals in groundwater near the industrial belt.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,official_report
+307,Environmental audit of the mining site reveals significant soil contamination.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Not specified,official_report
+308,Noise level measurements near the airport show readings above permissible limits.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,official_report
+309,Heavy smog blankets the city making it hard to see buildings across the street.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+310,The wood processing unit is emitting sawdust and smoke into the air continuously.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+311,Exhaust fumes from diesel generators during power cuts are polluting the apartment complex.,Air Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+312,The incinerator at the hospital is producing smoke with a very bad smell.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+313,Dust storms from the quarry are making life miserable for the villagers.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+314,A rubber factory in Manchar is producing black acrid smoke polluting the surrounding farms.,Air Pollution,MEDIUM,POLLUTION REPORT,Manchar,citizen_report
+315,Garbage burning at the municipal dump is creating a thick layer of smoke over the township.,Air Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+316,The asphalt plant on Solapur Road emits strong tar-like fumes every evening.,Air Pollution,MEDIUM,POLLUTION REPORT,Solapur Road,citizen_report
+317,Toxic fumes from the battery recycling unit are causing headaches and nausea among neighbours.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+318,Forest fire near Mahabaleshwar is generating massive smoke clouds visible from the city.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Mahabaleshwar,news_report
+319,Coal dust from the thermal power plant is covering houses and crops in Chandrapur district.,Air Pollution,MEDIUM,POLLUTION REPORT,Chandrapur,news_report
+320,Burning of electronic waste in the open lot is releasing harmful fumes into the air.,Air Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+321,The Mula river near Aundh bridge smells terrible due to untreated sewage discharge.,Water Pollution,MEDIUM,POLLUTION REPORT,Aundh,citizen_report
+322,Washing of chemical tankers in the open area is polluting nearby water sources.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+323,Farmers downstream report that irrigation water from the canal has a chemical taste.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+324,Detergent foam is accumulating on the river surface near the ghats.,Water Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+325,The reservoir water has turned green due to algae bloom possibly caused by fertiliser runoff.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+326,Cyanide waste from the gold processing unit has reached the village well.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+327,Raw sewage from the housing colony is directly flowing into the nullah near Hinjewadi.,Water Pollution,MEDIUM,POLLUTION REPORT,Hinjewadi,citizen_report
+328,People who drank water from the hand pump near the factory have developed stomach problems.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+329,The colour of tap water has changed to yellowish in Wagholi area.,Water Pollution,MEDIUM,POLLUTION REPORT,Wagholi,citizen_report
+330,Floating oil patches visible on the creek near the port area.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,observation
+331,The river bed is covered with dark sludge from industrial discharge.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+332,Groundwater contamination suspected after residents develop kidney problems near factory belt.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+333,Used engine oil from the auto garage is being poured on the ground daily.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+334,The area around the closed chemical factory has barren land where nothing grows.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Not specified,observation
+335,Plastic mulch sheets used in farming are left in the fields decomposing into the soil.,Soil/Land Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+336,Heavy metal contamination found in soil samples near the electroplating unit.,Soil/Land Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,official_report
+337,Asbestos sheets from the demolished building are lying in the open ground.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+338,The former gas station site has oil contaminated soil that has not been cleaned up.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+339,Excessive use of pesticides has made the farm soil infertile in Baramati region.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Baramati,citizen_report
+340,Slag from the iron smelting unit is dumped on the farmland affecting crops.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+341,Lead contamination detected in soil near the old battery manufacturing site.,Soil/Land Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,official_report
+342,Plastic waste is being mixed into the soil at the construction landfill site.,Soil/Land Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+343,Pile driving at the construction site is producing ear splitting noise all day.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+344,The auto repair workshop runs heavy machinery at night causing sleep disruption.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+345,Road widening work with jackhammers is generating unbearable noise for weeks.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+346,The temple loudspeaker starts at 4 AM disturbing everyone in the locality.,Noise Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+347,Industrial compressors running at the neighbouring factory cause constant vibrations.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+348,The newly opened gym plays extremely loud music disturbing the residential building.,Noise Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+349,Train horn at the unmanned level crossing is deafeningly loud and constant.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+350,Multiple cement mixer trucks running simultaneously creating horrible noise levels.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+351,People near the industrial grinding unit are reporting tinnitus and hearing loss.,Noise Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+352,The power loom machines in the basement run 24 hours causing constant noise.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+353,The plastic recycling factory is emitting acrid fumes during the melting process.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+354,Runoff from the industrial estate is carrying pollutants into the agricultural canal.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+355,The poultry processing plant is discharging waste into the open drain causing terrible stench.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+356,The glass factory kiln is glowing all night and emitting heat and fumes.,Industrial Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+357,Emission from the sponge iron factory in Raigarh has blackened surrounding buildings.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Raigarh,citizen_report
+358,Boiler explosion at the sugar factory released steam and pollutants injuring workers.,Industrial Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,news_report
+359,The fish processing unit smell is unbearable and spreading across the neighbourhood.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+360,Chemical vapour escaping from faulty pipes at the refinery poses health risk.,Industrial Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,official_report
+361,The soap manufacturing unit is releasing lye waste into the municipal drainage.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+362,Hot metal slag being dumped in the open by the foundry is a fire and pollution hazard.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+363,The fertilizer plant near Zuarinagar is emitting sulphur dioxide fumes affecting residents.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Zuarinagar,citizen_report
+364,Unauthorized stone crusher operating near the national park causing dust and noise.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Not specified,official_report
+365,Chicken waste from the slaughterhouse is being thrown into the open gutter.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+366,The composting facility is not working properly and rotting waste is piling up.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+367,Discarded paint cans and thinner bottles found dumped near the children's playground.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+368,The waste segregation is not being followed and everything is mixed in one dump.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+369,Old furniture and mattresses have been dumped on the roadside blocking the footpath.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+370,Sanitary waste is visible in the open garbage dump near the bus stop.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+371,The community dustbin has not been emptied for days and garbage is overflowing onto the road.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+372,Glass bottles and sharp objects in the dumped waste near the park are a danger to children.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+373,Hospital waste bags seen in the regular municipal dump site near Chinchwad.,Waste/Garbage Pollution,HIGH,POTENTIAL EMERGENCY,Chinchwad,citizen_report
+374,Flyblown meat waste from the market is attracting vultures and creating hygiene problems.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+375,Construction demolition waste blocks the entire lane and nobody is clearing it.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+376,Styrofoam packaging waste is being blown by wind into the lake.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+377,The pesticide godown near the farm is leaking and contaminating the soil.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+378,Battery acid was spilled on the road near the recycling centre.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+379,Workers at the dye factory are developing skin diseases due to chemical exposure.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,citizen_report
+380,Formaldehyde smell from the furniture factory is giving headaches to nearby residents.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+381,Mercury from the thermometer factory was found in the drainage system.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Not specified,official_report
+382,The agricultural chemical storage near Baramati burst due to heat releasing toxic fumes.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Baramati,news_report
+383,Paint thinner smell is very strong near the automobile painting booth.,Chemical Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+384,Acid fumes from the electroplating unit are corroding nearby metal structures.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+385,The fertilizer storage unit is emitting ammonia smell detectable from a kilometre away.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+386,Spilled laboratory chemicals near the university are creating foul odour.,Chemical Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+387,There is an odd vibration felt in the ground near the construction site.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+388,Something is wrong with the environment here but I cannot pinpoint the issue.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+389,An unpleasant sensation when stepping outside that was not there before.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+390,Plants and trees in the neighbourhood are dying for no apparent reason.,Other/Unknown,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+391,Birds have stopped visiting the area which used to have many bird species.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+392,Unusual number of residents falling sick at the same time in the building.,Other/Unknown,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+393,The street lamps are attracting an unusual number of insects at night.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+394,The new sports complex near the stadium is amazing for morning exercise.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+395,Our college organized an awareness programme on environmental conservation.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+396,The food at the college canteen has improved after the new management took over.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+397,Reading about climate change in the newspaper makes me think about the future.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+398,My brother got a new job at an environmental consulting firm.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+399,We planted saplings in our building compound as part of environment day.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+400,The swimming pool at the club has been cleaned and is ready for summer.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+401,Our apartment society has started rainwater harvesting this monsoon.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+402,The air purifier in our office is working well and the indoor air feels fresh.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+403,The documentary on ocean life was very interesting to watch.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+404,I am learning about machine learning and NLP in my computer science course.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+405,The cleanliness drive organized by NGO in the village was very successful.,Not Pollution,NONE,NORMAL,Not specified,news_report
+406,The wind energy project near Satara is generating electricity for the region.,Not Pollution,NONE,NORMAL,Not specified,news_report
+407,Public transport usage has increased after the new bus routes were introduced.,Not Pollution,NONE,NORMAL,Not specified,news_report
+408,I walked by the river today and the water looked clean and clear.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+409,The recycling centre in our neighbourhood is doing a great job.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+410,Solar street lights have been installed in our village saving electricity.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+411,The organic farm near Mulshi produces very fresh and healthy vegetables.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+412,The electric bus service launched in the city is quiet and comfortable.,Not Pollution,NONE,NORMAL,Not specified,citizen_report
+413,The environment minister inaugurated the new sewage treatment plant.,Not Pollution,NONE,NORMAL,Not specified,news_report
+414,The factory is not polluting but the traffic near it creates a lot of dust.,Air Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+415,I do not think the water is contaminated but it tastes a bit odd.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+416,The smell is not very strong but it is definitely not normal.,Other/Unknown,LOW,POLLUTION REPORT,Not specified,citizen_report
+417,It is not an emergency but someone should look into the waste dumping issue.,Waste/Garbage Pollution,LOW,POLLUTION REPORT,Not specified,citizen_report
+418,The noise is tolerable during the day but becomes very loud at night.,Noise Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+419,Not sure if this is pollution but the river colour has been changing daily.,Water Pollution,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+420,There is no visible pollution but residents have been feeling unwell lately.,Other/Unknown,MEDIUM,POLLUTION REPORT,Not specified,citizen_report
+421,Chemical discharge spotted in Yamuna river near Mathura.,Chemical Pollution,MEDIUM,POLLUTION REPORT,Mathura,news_report
+422,Air pollution complaints rising in Andheri West near the commercial zone.,Air Pollution,MEDIUM,POLLUTION REPORT,Andheri West,news_report
+423,Illegal sand mining on the river bed near Shirur is causing erosion.,Soil/Land Pollution,MEDIUM,POLLUTION REPORT,Shirur,news_report
+424,Residents of Viman Nagar complain about aircraft noise at odd hours.,Noise Pollution,MEDIUM,POLLUTION REPORT,Viman Nagar,citizen_report
+425,Garbage pile up in Kharadi IT park area due to contractor dispute.,Waste/Garbage Pollution,MEDIUM,POLLUTION REPORT,Kharadi,news_report
+426,Untreated sewage flowing into Mutha river near Sinhagad Road.,Water Pollution,MEDIUM,POLLUTION REPORT,Sinhagad Road,citizen_report
+427,Dust from marble cutting factories in Rajsamand affecting local population.,Industrial Pollution,MEDIUM,POLLUTION REPORT,Rajsamand,news_report
+428,Mercury contamination found in Kodaikanal lake from thermometer factory waste.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Kodaikanal,news_report
+429,Massive oil spill reported off the coast of Chennai affecting marine life.,Water Pollution,HIGH,POTENTIAL EMERGENCY,Chennai,news_report
+430,Toxic gas leak at Visakhapatnam chemical plant causing mass evacuations.,Chemical Pollution,HIGH,POTENTIAL EMERGENCY,Visakhapatnam,news_report

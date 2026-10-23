@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+*.log
+*.db-journal
+*.db-wal
+*.db-shm
+UIT23M1123_12/PolluAlert/data/pollualert.db
