@@ -1,9 +1,11 @@
-"""
+'''
+Name: Pranav Prabhakar Shelke
+Class: Btech IT 
+Batch: B3
+Roll:  123
+PRN:   UIT23M1123
 Assignment 10: Prompt Engineering Techniques for LLMs
-- Programmatic implementation of Zero-Shot, One-Shot, Few-Shot, and Chain-of-Thought (CoT) prompts
-- Legal document summarization, risk clause detection, and plain-language brief generation
-- Systematic evaluation of prompt templates and output quality impact
-"""
+'''
 
 import os
 import json

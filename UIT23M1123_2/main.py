@@ -1,4 +1,11 @@
-"""Extract structured information from resume text."""
+'''
+Name: Pranav Prabhakar Shelke
+Class: Btech IT 
+Batch: B3
+Roll:  123
+PRN:   UIT23M1123
+Assignment 2: Regular Expressions and Text Cleaning
+'''
 
 from pathlib import Path
 import re

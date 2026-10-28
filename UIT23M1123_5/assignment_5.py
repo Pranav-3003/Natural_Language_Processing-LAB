@@ -1,9 +1,11 @@
-"""
+'''
+Name: Pranav Prabhakar Shelke
+Class: Btech IT 
+Batch: B3
+Roll:  123
+PRN:   UIT23M1123
 Assignment 5: Topic Modeling using LSA / LDA
-- Topic Modeling using Latent Semantic Analysis (LSA / SVD) and Latent Dirichlet Allocation (LDA)
-- Coherence & Topic Keyword Extraction
-- Real-World Application: Analyzing Telecom Support Tickets for operational decision-making
-"""
+'''
 
 import os
 import csv

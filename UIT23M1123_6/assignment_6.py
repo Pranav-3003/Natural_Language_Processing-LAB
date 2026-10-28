@@ -1,9 +1,11 @@
-"""
+'''
+Name: Pranav Prabhakar Shelke
+Class: Btech IT 
+Batch: B3
+Roll:  123
+PRN:   UIT23M1123
 Assignment 6: Named Entity Recognition (NER)
-- spaCy NER pipeline & displaCy entity visualization logic
-- Custom spaCy EntityRuler for domain-specific clinical entity parsing
-- Extract Drug names, Dosages, Symptoms, and Diagnoses from EHR summaries
-"""
+'''
 
 import os
 import re

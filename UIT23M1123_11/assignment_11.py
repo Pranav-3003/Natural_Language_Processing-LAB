@@ -1,10 +1,11 @@
-"""
+'''
+Name: Pranav Prabhakar Shelke
+Class: Btech IT 
+Batch: B3
+Roll:  123
+PRN:   UIT23M1123
 Assignment 11: RAG-based Document Question Answering System
-- Chunking & Indexing institutional handbook documents into vector space
-- Top-k semantic similarity retrieval engine (FAISS / TF-IDF Vector Store)
-- Context-grounded RAG answer synthesis for university student queries (exams, admissions, hostel rules)
-- Evaluation via ROUGE & BLEU retrieval metrics
-"""
+'''
 
 import os
 from typing import Tuple

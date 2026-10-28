@@ -1,9 +1,11 @@
-"""
+'''
+Name: Pranav Prabhakar Shelke
+Class: Btech IT 
+Batch: B3
+Roll:  123
+PRN:   UIT23M1123
 Assignment 3: Bag-of-Words & TF-IDF Vectorization
-- Bag-of-Words (BoW) & TF-IDF vector representations built from scratch using NumPy
-- Verification with scikit-learn CountVectorizer & TfidfVectorizer
-- Document-similarity & Plagiarism Detection system based on Cosine Similarity
-"""
+'''
 
 import os
 import json

@@ -1,9 +1,11 @@
-"""
+'''
+Name: Pranav Prabhakar Shelke
+Class: Btech IT 
+Batch: B3
+Roll:  123
+PRN:   UIT23M1123
 Assignment 8: Transformer-based Sentiment Analysis using Hugging Face
-- Multilingual Sentiment Classification using Hugging Face Transformers & DistilBERT
-- Compare Transformer performance against Machine Learning baselines
-- Multilingual social-media opinion mining (English, Hindi, Marathi)
-"""
+'''
 
 import os
 import csv
